@@ -1,2 +1,26 @@
 # AI-Based-Brain-Tumor-Detection
-An AI-powered Brain Tumor Detection System using Deep Learning, CNN, TensorFlow, Keras, OpenCV, and Python for MRI image classification.
+# AI-Based Brain Tumor Detection Using Deep Learning
+
+## Overview
+
+This project detects brain tumors from MRI images using Deep Learning.
+
+## Features
+
+- MRI Image Upload
+- CNN Model
+- Prediction Result
+- User-friendly Interface
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+
+## Author
+
+Raman Dev Sharma
+
